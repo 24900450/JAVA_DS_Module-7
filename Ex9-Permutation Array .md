@@ -66,7 +66,7 @@ class Solution {
 
 ## Output:
 
-<img width="654" height="189" alt="Screenshot 2026-03-24 135854" src="https://github.com/user-attachments/assets/f48d57a6-aea6-4e4e-9e6a-808d9fde8d94" />
+<img width="654" height="189" alt="Screenshot 2026-03-24 135854" src="https://github.com/user-attachments/assets/891ba94c-4ad1-475c-844a-6a51f46f7227" />
 
 ## Result:
 The program successfully computes the longest length of the nested set s[k] for the given permutation array.
