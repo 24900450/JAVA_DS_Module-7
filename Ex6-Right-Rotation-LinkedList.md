@@ -19,7 +19,7 @@ Display the rotated linked list.
 Program to  Right Rotation LinkedList
 Developed by: SURYANARAYANAN T
 RegisterNumber: 212224040341
-
+*/
 import java.util.Scanner;
 
 class Node {
@@ -93,8 +93,6 @@ class prog {
         sc.close();
     }
 }
- 
-*/
 ```
 
 ## Output:
